@@ -1,0 +1,28 @@
+_repo: Virginia-A-TragedyAnd-Other-Poems_36214
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gilmore, Marion Forster
+    birthdate: 1887
+    gutenberg_agent_id: '38144'
+    url: http://www.gutenberg.org/2009/agents/38144
+description: ''
+gutenberg_issued: '2011-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36214'
+  lccn: '10013453'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Virginia, daughter of Virginius (Legendary character) -- Drama'
+- !lcsh 'Tragedies'
+- !lcc 'PS'
+- !lcsh 'Poetry'
+title: 'Virginia: A Tragedy, and Other Poems'
+url: http://www.gutenberg.org/ebooks/36214
